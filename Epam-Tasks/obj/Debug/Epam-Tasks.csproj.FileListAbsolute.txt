@@ -1,0 +1,7 @@
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Epam-Tasks.exe.config
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Epam-Tasks.exe
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Epam-Tasks.pdb
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.csprojAssemblyReference.cache
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.exe
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.pdb
