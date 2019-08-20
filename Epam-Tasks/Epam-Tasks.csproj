@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -48,6 +49,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Second Webinar Tasks\Second Webinar Tasks.csproj">
+      <Project>{b21ad05c-7d22-44ed-8ae4-323b81d3805e}</Project>
+      <Name>Second Webinar Tasks</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Third Webinar Tasks\Third Webinar Tasks.csproj">
+      <Project>{3a3d2f1a-a2b7-4e49-9baa-16a6ee586786}</Project>
+      <Name>Third Webinar Tasks</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

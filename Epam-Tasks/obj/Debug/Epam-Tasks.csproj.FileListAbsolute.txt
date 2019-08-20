@@ -5,3 +5,8 @@ C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.csprojAs
 C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.csproj.CoreCompileInputs.cache
 C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.exe
 C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.pdb
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Second Webinar Tasks.dll
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Third Webinar Tasks.dll
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Second Webinar Tasks.pdb
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Third Webinar Tasks.pdb
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.csproj.CopyComplete

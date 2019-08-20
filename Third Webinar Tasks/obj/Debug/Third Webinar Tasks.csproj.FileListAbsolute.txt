@@ -1,0 +1,6 @@
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Third Webinar Tasks\bin\Debug\Third Webinar Tasks.dll
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Third Webinar Tasks\bin\Debug\Third Webinar Tasks.pdb
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Third Webinar Tasks\obj\Debug\Third Webinar Tasks.csprojAssemblyReference.cache
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Third Webinar Tasks\obj\Debug\Third Webinar Tasks.csproj.CoreCompileInputs.cache
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Third Webinar Tasks\obj\Debug\Third Webinar Tasks.dll
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Third Webinar Tasks\obj\Debug\Third Webinar Tasks.pdb

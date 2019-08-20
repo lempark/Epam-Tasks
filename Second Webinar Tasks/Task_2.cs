@@ -19,7 +19,7 @@ namespace Second_Webinar_Tasks
                 get { return (D.X - B.X) * 2 + (B.Y - D.Y) * 2; }               
             }
 
-            public int GetSquare
+            public int Square
             {
                 get { return (D.X - B.X) * (B.Y - D.Y); }
             }

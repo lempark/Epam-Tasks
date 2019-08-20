@@ -4,10 +4,10 @@ namespace Second_Webinar_Tasks
 {
     namespace Task_5
     {
-        class ComplexNumber
+        public class ComplexNumber
         {
             #region Properties
-            public double Real { get; }
+            public double Real { get;  }
             public double Imaginary { get; }
             #endregion
 
