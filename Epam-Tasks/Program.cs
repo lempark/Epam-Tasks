@@ -11,7 +11,8 @@ namespace Epam_Tasks
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Second webinar tasks ##########################################");
+
             Console.WriteLine("task 1 \n ------------------------------------------- \n input left top: ");
             Point leftTop = new Point(int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine()));
             Console.WriteLine("input right bottom: ");
@@ -53,6 +54,62 @@ namespace Epam_Tasks
             Second_Webinar_Tasks.Task_5.ComplexNumber cn3 = cn1 * cn2;
             Second_Webinar_Tasks.Task_5.ComplexNumber cn4 = cn1 / cn2;
             Console.WriteLine($"result of multiply = ({cn3.Real} , {cn3.Imaginary}) \n result of division = ({cn4.Real} , {cn4.Imaginary}) ");
+
+            //------------------------------------------------------------------------------------------------------------------------
+            Console.WriteLine("Third webinar tasks ##########################################");
+
+            Console.WriteLine("task 1 \n -------------------------------------------");
+            Third_Webinar_Tasks.Task_1.Figure f1 = new Third_Webinar_Tasks.Task_1.Rectangle();
+            f1.Draw();
+            Third_Webinar_Tasks.Task_1.Figure f2 = new Third_Webinar_Tasks.Task_1.Square();
+            f2.Draw();
+
+            Console.WriteLine("task 2 \n ------------------------------------------\n input x , y: ");
+            int x = int.Parse(Console.ReadLine());
+            int y = int.Parse(Console.ReadLine());
+            Third_Webinar_Tasks.Task_2.Figure f3 = new Third_Webinar_Tasks.Task_2.Rectangle(x, y);
+            Console.WriteLine("input x , y: ");
+            int _x = int.Parse(Console.ReadLine());
+            int _y = int.Parse(Console.ReadLine());
+            Third_Webinar_Tasks.Task_2.Figure f4 = new Third_Webinar_Tasks.Task_2.Square(_x, _y);
+            f3.Draw();
+            Console.WriteLine($"coordinates: ({f3.X} , {f3.Y})");
+            f4.Draw();
+            Console.WriteLine($"coordinates: ({f4.X} , {f4.Y})");
+
+            Console.WriteLine("task 3 \n ------------------------------------------\n input x , y: ");
+            int x5 = int.Parse(Console.ReadLine());
+            int y5 = int.Parse(Console.ReadLine());
+            Third_Webinar_Tasks.Task_3.Figure f5 = new Third_Webinar_Tasks.Task_3.Figure(x5, y5);
+            Console.WriteLine("input x , y: ");
+            int x6 = int.Parse(Console.ReadLine());
+            int y6 = int.Parse(Console.ReadLine());
+            Third_Webinar_Tasks.Task_3.Figure f6 = new Third_Webinar_Tasks.Task_3.Rectangle(x6, y6);
+            Console.WriteLine("input x , y: ");
+            int x7 = int.Parse(Console.ReadLine());
+            int y7 = int.Parse(Console.ReadLine());
+            Third_Webinar_Tasks.Task_3.Figure f7 = new Third_Webinar_Tasks.Task_3.Square(x7, y7);
+            f5.Draw();
+            Console.WriteLine($"coordinates: ({f5.X} , {f5.Y})");
+            f6.Draw();
+            Console.WriteLine($"coordinates: ({f6.X} , {f6.Y})");
+            f7.Draw();
+            Console.WriteLine($"coordinates: ({f7.X} , {f7.Y})");
+
+            Console.WriteLine("task 4 \n ------------------------------------------\n input x , y: ");
+            int x8 = int.Parse(Console.ReadLine());
+            int y8 = int.Parse(Console.ReadLine());
+            Third_Webinar_Tasks.Task_4.Figure f8 = new Third_Webinar_Tasks.Task_4.Figure(x8, y8);
+            Console.WriteLine("input x , y: ");
+            int x9 = int.Parse(Console.ReadLine());
+            int y9 = int.Parse(Console.ReadLine());
+            Third_Webinar_Tasks.Task_4.Figure f9 = new Third_Webinar_Tasks.Task_4.Rectangle(x9, y9);
+            Console.WriteLine("input x , y: ");
+            int x10 = int.Parse(Console.ReadLine());
+            int y10 = int.Parse(Console.ReadLine());
+            Third_Webinar_Tasks.Task_4.Figure f10 = new Third_Webinar_Tasks.Task_4.Square(x10, y10);
+            Third_Webinar_Tasks.Task_4.Figure.DrawAll(f8, f9, f10);
+            Console.WriteLine($"coordinates:\n({f8.X} , {f8.Y})\n({f9.X} , {f9.Y})\n({f10.X} , {f10.Y})");
 
             Console.Read();
         }
