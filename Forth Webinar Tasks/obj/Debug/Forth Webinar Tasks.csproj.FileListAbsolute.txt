@@ -1,0 +1,6 @@
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Forth Webinar Tasks\bin\Debug\Forth Webinar Tasks.dll
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Forth Webinar Tasks\bin\Debug\Forth Webinar Tasks.pdb
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Forth Webinar Tasks\obj\Debug\Forth Webinar Tasks.csprojAssemblyReference.cache
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Forth Webinar Tasks\obj\Debug\Forth Webinar Tasks.csproj.CoreCompileInputs.cache
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Forth Webinar Tasks\obj\Debug\Forth Webinar Tasks.dll
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Forth Webinar Tasks\obj\Debug\Forth Webinar Tasks.pdb

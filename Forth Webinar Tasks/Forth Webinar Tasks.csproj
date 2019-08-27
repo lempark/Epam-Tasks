@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FCFC10DE-CEE6-4748-8908-58492B1ED7CB}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>Epam_Tasks</RootNamespace>
-    <AssemblyName>Epam-Tasks</AssemblyName>
+    <ProjectGuid>{0084CA1C-96C5-4E45-8A5D-F48ABAED7693}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Forth_Webinar_Tasks</RootNamespace>
+    <AssemblyName>Forth Webinar Tasks</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -35,7 +33,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,25 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Task_1_2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Forth Webinar Tasks\Forth Webinar Tasks.csproj">
-      <Project>{0084ca1c-96c5-4e45-8a5d-f48abaed7693}</Project>
-      <Name>Forth Webinar Tasks</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Second Webinar Tasks\Second Webinar Tasks.csproj">
-      <Project>{b21ad05c-7d22-44ed-8ae4-323b81d3805e}</Project>
-      <Name>Second Webinar Tasks</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Third Webinar Tasks\Third Webinar Tasks.csproj">
-      <Project>{3a3d2f1a-a2b7-4e49-9baa-16a6ee586786}</Project>
-      <Name>Third Webinar Tasks</Name>
-    </ProjectReference>
+    <Compile Include="Task_3.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

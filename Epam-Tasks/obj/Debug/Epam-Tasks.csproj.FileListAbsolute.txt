@@ -10,3 +10,5 @@ C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Third Webinar Tasks
 C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Second Webinar Tasks.pdb
 C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Third Webinar Tasks.pdb
 C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\obj\Debug\Epam-Tasks.csproj.CopyComplete
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Forth Webinar Tasks.dll
+C:\Users\wentr\Desktop\Codes\Epam-Tasks\Epam-Tasks\bin\Debug\Forth Webinar Tasks.pdb

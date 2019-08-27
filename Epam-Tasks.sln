@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second Webinar Tasks", "Sec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Webinar Tasks", "Third Webinar Tasks\Third Webinar Tasks.csproj", "{3A3D2F1A-A2B7-4E49-9BAA-16A6EE586786}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forth Webinar Tasks", "Forth Webinar Tasks\Forth Webinar Tasks.csproj", "{0084CA1C-96C5-4E45-8A5D-F48ABAED7693}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3A3D2F1A-A2B7-4E49-9BAA-16A6EE586786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A3D2F1A-A2B7-4E49-9BAA-16A6EE586786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A3D2F1A-A2B7-4E49-9BAA-16A6EE586786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0084CA1C-96C5-4E45-8A5D-F48ABAED7693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0084CA1C-96C5-4E45-8A5D-F48ABAED7693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0084CA1C-96C5-4E45-8A5D-F48ABAED7693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0084CA1C-96C5-4E45-8A5D-F48ABAED7693}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
